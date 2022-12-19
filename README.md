@@ -2,7 +2,7 @@
 Overly simple tic-tac-toe on sockets.
 
 ## About
-The project consists of two applications: a client and a server.
+The project consists of two console applications: a client and a server.
 
 Once started, the server waits for the two clients to connect. Each of the clients, immediately after start-up, enters its name.
 The server then lets the clients take turns to play until one of them wins or if there is a draw.
